@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-mv1ok7.acceptancetesting.dev/sitemap.xml
